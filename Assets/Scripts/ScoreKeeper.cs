@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CompletedScoreKeeper : MonoBehaviour
+public class ScoreKeeper : MonoBehaviour
 {
     public Text scoreText;
 
