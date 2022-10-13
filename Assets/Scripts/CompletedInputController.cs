@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CompletedInputController: MonoBehaviour 
 {
-    public Jumper controlledJumper;
+    public CompletedJumper controlledJumper;
 
 	// Update is called once per frame
 	void Update () 
